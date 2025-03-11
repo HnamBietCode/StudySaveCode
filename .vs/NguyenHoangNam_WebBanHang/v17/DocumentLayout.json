@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\NguyenHoangNam_WebBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|m:\\nguyenhoangnam_webbanhang\\nguyenhoangnam_webbanhang\\migrations\\20250311073740_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF1FB92-E88C-4015-97A5-4D39502A71DF}|NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang.csproj|solutionrelative:nguyenhoangnam_webbanhang\\migrations\\20250311073740_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T08:08:47.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T08:08:45.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Controllers\\CategoriesController.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:04:38.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Controllers\\ProductsController.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA0wDoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:54:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Models\\Product.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Models\\Product.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:54:30.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T08:11:57.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Views\\Home\\Index.cshtml",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T08:16:11.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:47:18.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T08:08:48.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Views\\Products\\Index.cshtml",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T08:22:45.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Repositories\\IProductRepository.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:41:11.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:41:42.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Models\\Category.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Models\\Category.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:55:03.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T08:08:48.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T08:08:49.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:42:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Models\\ErrorViewModel.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:53:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Program.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Program.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:56:44.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:21:40.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250311073740_init.cs",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Migrations\\20250311073740_init.cs",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\Migrations\\20250311073740_init.cs",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\Migrations\\20250311073740_init.cs",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\Migrations\\20250311073740_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:37:41.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\appsettings.json",
+              "RelativeDocumentMoniker": "NguyenHoangNam_WebBanHang\\appsettings.json",
+              "ToolTip": "M:\\NguyenHoangNam_WebBanHang\\NguyenHoangNam_WebBanHang\\appsettings.json",
+              "RelativeToolTip": "NguyenHoangNam_WebBanHang\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T06:57:05.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
